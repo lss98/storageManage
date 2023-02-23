@@ -132,7 +132,7 @@
 export default {
 	data() {
 		return {
-			title: 'Hello'
+			title: 'Hello111'
 		};
 	},
 	onLoad() {},
