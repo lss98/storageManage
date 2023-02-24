@@ -1,0 +1,72 @@
+{
+  "id": "3902533",
+  "name": "仓库管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13589182",
+      "name": "入库扫描",
+      "font_class": "rukusaomiao",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "712226",
+      "name": "收货",
+      "font_class": "icon-receive",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1314161",
+      "name": "配件出库统计",
+      "font_class": "peijianchukutongji",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "5343677",
+      "name": "订单",
+      "font_class": "tuanduicankaoxian-",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "11111000",
+      "name": "出库",
+      "font_class": "chuku",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "11111008",
+      "name": "库存查询",
+      "font_class": "kucunchaxun",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "11111014",
+      "name": "入库",
+      "font_class": "ruku",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "13648318",
+      "name": "其他入库扫描.svg",
+      "font_class": "qitarukusaomiaosvg",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "19415730",
+      "name": "装车扫描",
+      "font_class": "icon-svg-02",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
