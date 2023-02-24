@@ -133,6 +133,7 @@ export default {
 	data() {
 		return {
 			title: 'Hello12222333'
+
 		};
 	},
 	onLoad() {},
